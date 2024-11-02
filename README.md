@@ -1,5 +1,7 @@
 # Music Website
 
+## General
+
 This project is a responsive and visually engaging website featuring various music genres, with embedded playlists and tracks for genres such as Phonk, Brazilian Phonk, and Pop. The website is designed for easy navigation with a sliding sidebar menu.
 
 ## Features
